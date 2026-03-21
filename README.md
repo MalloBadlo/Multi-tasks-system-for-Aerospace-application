@@ -3,6 +3,7 @@ A FreeRTOS project that consists in a multi-task system that read, log and manag
 
 ## How does it work
 There are three categories of sensors (based on priority):
+
 	- High priority:
 			- Gyroscope sensor
 			- Angle of Attack (AoA) sensor
